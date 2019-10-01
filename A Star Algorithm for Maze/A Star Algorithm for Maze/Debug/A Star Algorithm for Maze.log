@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\MyWorld\A Star Algorithm for Maze\A Star Algorithm for Maze\main.cpp(170): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\MyWorld\A Star Algorithm for Maze\A Star Algorithm for Maze\main.cpp(174): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\MyWorld\A Star Algorithm for Maze\A Star Algorithm for Maze\main.cpp(136): warning C4715: '_open::deque': not all control paths return a value
+  A Star Algorithm for Maze.vcxproj -> C:\MyWorld\A Star Algorithm for Maze\Debug\A Star Algorithm for Maze.exe
